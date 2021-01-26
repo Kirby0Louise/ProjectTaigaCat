@@ -1,0 +1,11 @@
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\bin\Debug\F7FTaigacat.exe.config
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\bin\Debug\F7FTaigacat.exe
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\bin\Debug\F7FTaigacat.pdb
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\bin\Debug\F7FTaigacat.xml
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.vbprojAssemblyReference.cache
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.frmMain.resources
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.Resources.resources
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.vbproj.GenerateResource.cache
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.exe
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.xml
+C:\Users\darkm\source\repos\F7FTaigacat\F7FTaigacat\obj\Debug\F7FTaigacat.pdb
