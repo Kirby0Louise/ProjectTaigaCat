@@ -3,6 +3,8 @@ Project TaigaCat is GPU accelerated open source alternative to trdrop and fpstoo
 
 Project TaigaCat was created in response to address accountability concerns surrounding the fairness of technical analysis reporting on video games.  The hope is that by providing a powerful-yet-simple, open source and transparent, full-fledged feature set of technical analysis tools that it will keep people in line, as now anyone will be able to very easily perform their own analysis, and thus the community can effectively "peer review" each other
 
+![Small but mighty](/assets/taigacat_rsz.png)
+
 ### System Requirements
 
 X | Minimum | Recommended | Recommended (software analyzer)
@@ -17,3 +19,5 @@ DirectX | FL 11_0 | FL 12_0 | FL 12_0
 - Intel Graphics are not currently supported
 - These system specs are what are best believed to be the minimum requirements for Project TaigaCat to be fully functional, but do not guarantee any specific level of performance
 - While you may find that it functions on lower specs, no official support will be given to systems that do not meet these requirements
+
+
